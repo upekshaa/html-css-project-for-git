@@ -6,9 +6,10 @@ body {
 }
 
 h1 {
-  color: #8C8D8E;
+  color: blue;
   font-size: 300%;
   text-align: center;
+  margin: 10px;
 }
 
 .center-wrapper {
@@ -16,7 +17,7 @@ h1 {
 }
 
 .logo {
-  margin: 0px auto;
+  margin: 10px auto 0px auto;
   width: 200px;
 }
 
@@ -37,9 +38,10 @@ h1 {
 }
 
 .name {
-
+  font-size: 140%;
 }
 
 .position {
-
+  font-size: 110%;
+  color: #B71833;
 }

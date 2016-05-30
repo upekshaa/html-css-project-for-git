@@ -1,3 +1,16 @@
+body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 1.428571429;
+  color: #333;
+}
+
+h1 {
+  color: #8C8D8E;
+  font-size: 300%;
+  text-align: center;
+}
+
 .center-wrapper {
   text-align :center;
 }
@@ -9,9 +22,24 @@
 
 .player-list {
   padding: 0;
+  margin: auto;
 }
 
 .player-list li {
   list-style: none;
-  margin: 5px;
+  margin: 10px;
+  width: 230px;  
+  display: inline-block;
+}
+
+
+.player-list img {
+}
+
+.name {
+
+}
+
+.position {
+
 }
